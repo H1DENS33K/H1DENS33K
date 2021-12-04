@@ -1,4 +1,4 @@
-- 👋 Hi, name's Araiel
+- 👋 Hi, name's Ariel
 - 👀 I love game development and recently got back into programming.
 - 🌱 I’m currently learning C# and web programming alongside the .Net Framework.
 - 💞️ I’m looking to collaborate on games. I have a history of 3D art (Blender, Maya) and currently work as an cinematic animation asst.
