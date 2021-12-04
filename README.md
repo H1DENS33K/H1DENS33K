@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @H1DENS33K
-- 👀 I’m interested in C# progamming and Unity game development
-- 🌱 I’m currently deep diving in C# programming and learning some .Net Framework.
+- 👋 Hi, name's Araiel
+- 👀 I love game development and recently got back into programming.
+- 🌱 I’m currently learning C# and web programming alongside the .Net Framework.
 - 💞️ I’m looking to collaborate on games. I have a history of 3D art (Blender, Maya) and currently work as an cinematic animation asst.
 - 📫 You can reach me at my email arieltheartist@gmail.com
 
