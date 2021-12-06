@@ -1,7 +1,8 @@
 - 👋 Hi, name's Ariel
-- 👀 I love game development and recently got back into programming.
-- 🌱 I’m currently learning C# and web programming alongside the .Net Framework.
-- 💞️ I’m looking to collaborate on games. I have a history of 3D art (Blender, Maya) and currently work as an cinematic animation asst.
+
+- 🌱 I’m currently learning Javascript to become a Front End Web Developer.
+- 👀 I love character art, painting, and visual design.
+- 💞️ I’m looking to collaborate on web and game projects. I have a history of 3D art (Blender, Maya) and currently work as an cinematic animation asst.
 - 📫 You can reach me at my email arieltheartist@gmail.com
 
 <!---
